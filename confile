@@ -5,8 +5,11 @@ line 4
 line 5
 line 6 with pull
 line 7
+<<<<<<< HEAD
 line 8
 line 9
 line 10
 line 11
 
+=======
+>>>>>>> parent of c1aac2c (Update info)
